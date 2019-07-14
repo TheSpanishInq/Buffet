@@ -1,7 +1,8 @@
-## Interface: 70100
+## Interface: 80200
 ## Title: Buffet
 ## Notes: Food/water macro generator
-## Author: Tekkub Stoutwrithe
+## Author: Tekkub Stoutwrithe - Update by TheSpanishInq
+## Version: 8.2.0
 ## X-Icon: Interface\Icons\INV_Misc_Food_DimSum
 
 ## SavedVariablesPerCharacter: BuffetDB
@@ -18,6 +19,5 @@ tekKonfigButton.lua
 CallbackHandler-1.0.lua
 LibDataBroker-1.1\LibDataBroker-1.1.lua
 
-Database.lua
 Buffet.lua
 Config.lua
