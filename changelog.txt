@@ -1,3 +1,14 @@
+### 8.2.0
+
+* Fixed the issue of leaving the bag contents on the game tootip by using an off-screen dedicated copy.
+
+### 8.0.0.48-Beta
+
+* Replaced the static item database with a scan of the items in the player's bag
+* Currently doesn't sort by stack size, or prioritise conjured.
+* Doesn't pick up % based health/mana
+
+
 ### 7.1.0.47-Beta
 
 * Some of the food values in legion were increased
